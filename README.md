@@ -18,9 +18,7 @@ Notes
 -------------------------
 The notes section is inspired by Tim Ferriss' clever indexed Alpha Geek note-taking system.  It provides an easy way to take notes and actually find them later.  The template has a two-page index for identifying the content and 100 numbered pages for note-taking.
 
-Master GTD To Do List
--------------------------
-In my print version, I use a 50-page second notes section to keep a running master list of all my tasks organized by client and project. I'm a busy working mother so my "real" to do list usually runs to 12-15 pages and I rework it about once a month.  I have way too many for one day's calendar page, but they all need to be captured to reach the "mind like water" state that David Allen's GTD practitioners strive to achieve.  So I keep the ongoing master list in the back and just transfer the tasks I've selected for a specific day to the daily calendar page to do list.
+In my print version, I use a second notes section with 50-pages to keep a running master list of all my tasks organized by client and project. I'm a busy working mother so my "real" to do list usually runs to 12-15 pages and I rework it about once a month.  I have way too many for one day's calendar page, but they all need to be captured to reach the "mind like water" state that David Allen's GTD practitioners strive to achieve.  So I keep the ongoing master list in the back and just transfer the tasks I've selected for a specific day to the daily calendar page to do list.
 
 
 Downloading the Files
